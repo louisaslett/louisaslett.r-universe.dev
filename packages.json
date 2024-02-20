@@ -1,14 +1,18 @@
 [
   {
+    "package": "HomomorphicEncryption",
+    "url": "https://github.com/louisaslett/HomomorphicEncryption"
+  },
+  {
+    "package": "mlmc",
+    "url": "https://github.com/louisaslett/mlmc"
+  },
+  {
     "package": "PhaseType",
     "url": "https://github.com/louisaslett/PhaseType"
   },
   {
     "package": "ReliabilityTheory",
     "url": "https://github.com/louisaslett/ReliabilityTheory"
-  },
-  {
-    "package": "mlmc",
-    "url": "https://github.com/louisaslett/mlmc"
   }
 ]
