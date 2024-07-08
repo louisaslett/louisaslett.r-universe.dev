@@ -1,5 +1,9 @@
 [
   {
+    "package": "BrownianMotion",
+    "url": "https://github.com/louisaslett/BrownianMotion"
+  },
+  {
     "package": "fhe",
     "url": "https://github.com/louisaslett/fhe"
   },
