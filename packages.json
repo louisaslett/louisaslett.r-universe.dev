@@ -8,6 +8,10 @@
     "url": "https://github.com/louisaslett/fhe"
   },
   {
+    "package": "maths.genealogy",
+    "url": "https://github.com/louisaslett/maths.genealogy"
+  },
+  {
     "package": "mlmc",
     "url": "https://github.com/louisaslett/mlmc"
   },
