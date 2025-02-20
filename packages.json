@@ -22,5 +22,9 @@
   {
     "package": "ReliabilityTheory",
     "url": "https://github.com/louisaslett/ReliabilityTheory"
+  },
+  {
+    "package": "stors",
+    "url": "https://github.com/Ahmad-qab/stors"
   }
 ]
