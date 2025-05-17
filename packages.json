@@ -8,6 +8,10 @@
     "url": "https://github.com/louisaslett/fhe"
   },
   {
+    "package": "fdp",
+    "url": "https://github.com/louisaslett/fdp"
+  },
+  {
     "package": "maths.genealogy",
     "url": "https://github.com/louisaslett/maths.genealogy"
   },
